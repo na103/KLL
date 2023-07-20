@@ -11,4 +11,4 @@ And so, for necessity and fun, I decided, using the multimedia content already p
 <br>
 During the lock-down I happened to find it in an old backup and so I thought I'd share it with all those who, out of necessity or for fun, want to "refresh" a bit of Klingon.<br>
 # note
-before running the app you need to "mount" the ISO file
+before running the app you need to "mount" the [ISO file](https://www.nerdone.it/wp-content/uploads/2020/06/klingon.zip)
