@@ -1,4 +1,4 @@
-# KLL
+# Klingon Language Lab
 You can't call yourself a true nerd if you don't know at least two Klingon words.<br>
 A few years ago, on my way back from STICON, the Italian Star Trek fandom convention, I thought about how rusty my Klingon was.<br>
 In the 90s, I had studied it with the help of a nice interactive CD-ROM, but over time I had lost familiarity with it and almost forgot it.<br>
